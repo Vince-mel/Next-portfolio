@@ -1,6 +1,7 @@
 import React from 'react'
 import Link from 'next/link';
 import Logo from '@/components/Logo';
+import Button from '@/components/Button';
 
 
 function Navbar() {
@@ -31,6 +32,9 @@ function Navbar() {
 
             ))}
           </ul>
+          <div className="nav-items-button">
+            <Button text="Curriculum" link="http://localhost/cv.pdf"/>
+          </div>
         </div>
       </div>
    </nav>
