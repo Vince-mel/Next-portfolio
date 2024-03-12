@@ -9,7 +9,7 @@
         flex-direction: column;
         gap: 1.3rem;
         &-item {
-            font-size: var(--tx2large);
+            font-size: var(--txlarge);
             display: flex;
             justify-content: center;
             align-items: center;
@@ -18,7 +18,7 @@
                 padding: 10px;
                 color: var(--lightest-slate);
                 transition: 0.3s ease-in-out;
-                outline: 2px dashd transparent;
+                outline: 2px dashed transparent;
                 &:hover {
                     color: var(--theme-color);
                 }

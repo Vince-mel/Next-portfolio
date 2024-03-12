@@ -2,6 +2,8 @@ import React from 'react'
 import '@/sections/Navbar'
 import Navbar from '@/sections/Navbar'
 import SocialIcons from '@/components/SocialIcons'
+import Email from '@/components/Email'
+import Hero from '@/sections/Hero'
 
 
 function Index() {
@@ -9,6 +11,10 @@ function Index() {
     <div className="app">
       <Navbar />
       <SocialIcons />
+      <main>
+      <Hero />
+      </main>
+      <Email />
     </div>
   ) 
 }
