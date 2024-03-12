@@ -5,6 +5,7 @@ import SocialIcons from '@/components/SocialIcons'
 import Email from '@/components/Email'
 import Hero from '@/sections/Hero'
 import About from '@/sections/About'
+import Project from '@/sections/Project'
 
 
 function Index() {
@@ -15,6 +16,7 @@ function Index() {
       <main>
       <Hero />
       <About />
+      <Project />
       </main>
       <Email />
     </div>
