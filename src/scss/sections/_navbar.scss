@@ -3,8 +3,21 @@ nav {
   
     .wrapper {
         .brand {
+
+            padding: 0 4rem;
+            width: 100%;
+            display: flex;
+            justify-content: space-beetwen;
+            align-items: center;
+
             a {
                 color: var(--theme-color);
+                display: flex;
+                justify-content: center;
+                height: 4rem;
+                width: 4rem;
+                fill: none;
+                margin: 2rem 0;
             }
         }
     }
