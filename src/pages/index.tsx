@@ -4,6 +4,7 @@ import Navbar from '@/sections/Navbar'
 import SocialIcons from '@/components/SocialIcons'
 import Email from '@/components/Email'
 import Hero from '@/sections/Hero'
+import About from '@/sections/About'
 
 
 function Index() {
@@ -13,6 +14,7 @@ function Index() {
       <SocialIcons />
       <main>
       <Hero />
+      <About />
       </main>
       <Email />
     </div>

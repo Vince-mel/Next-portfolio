@@ -8,8 +8,7 @@ function Navbar() {
 
   const sectionLinks = [
     {name:"About", link: "/#about"},
-    {name:"Esperienze", link: "/#experience"},
-    {name:"Lavoro", link: "/#work"},
+    {name:"Progetti", link: "/#project"},
     {name:"Contatti", link: "/#contact"},
   ]
 
