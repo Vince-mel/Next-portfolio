@@ -48,7 +48,7 @@ const projectsData = [
       projectName: "Netflix clone UI",
       projectLink: "https://netflix-clone-react-4i9s303vb-vincenzo-melillos-projects.vercel.app/",
       projectDescription:
-        "I made a Netflix copy with TMBD Api. It has infinite scrolling and lets you watch movies by genre. You can also add movies to your favorites list.",
+        "Clone UI di Netflix.",
       projectTech: [
         "React",
         "Node.js",
