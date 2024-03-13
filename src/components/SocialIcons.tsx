@@ -1,9 +1,9 @@
 import { link } from 'fs';
 import Link from 'next/link';
 import { title } from 'process';
-import React from 'react';
-import { FiGithub, FiInstagram,FiLinkedin } from 'react-icons/fi';
-
+import React from 'react'
+import { FiGithub, FiInstagram,FiLinkedin } from 'react-icons/fi'
+import { RiDiscordLine } from "react-icons/ri";
 
 
 function SocialIcons() {
@@ -13,7 +13,7 @@ function SocialIcons() {
         { name:"Github", icon: < FiGithub />, link: "https://github.com/Vince-mel" },
         { name:"LinkedIn", icon: < FiLinkedin />, link: "https://www.linkedin.com/in/vincenzo-melillo-developer/" },
         { name:"Istagram", icon: < FiInstagram />, link: "https://www.instagram.com/vincello08/" },
-        
+        { name:"Discord", icon: < RiDiscordLine   />, link: "https://discord.com/invite/BxEcsdfM" },
 
     ];
 
