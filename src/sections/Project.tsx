@@ -64,7 +64,7 @@ const projectsData = [
     },
 
     {
-        image: "/meteoday.png",
+        image: "/meteoday.jpeg",
         projectName: "Meteoday",
         projectLink: "https://weather-react-app-mocha.vercel.app/",
         projectDescription:  "Piccola web-app Meteo per vedere le previsioni del tempo tramite posizione o ricerca, mostra anche il resto dei giorni della settimana. La UI è da rimodellare, l'esercizio si basava sull'utilizzo di vere API meteo",
