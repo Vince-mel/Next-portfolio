@@ -11,7 +11,7 @@ function About() {
         <div className="about-grid">
             <div className="about-grid-info">
                 <p className="about-grid-info-text">
-                    Benvenuti! Mi presento: sono Vincenzo Melillo, un Full Stack Developer la cui passione per la tecnologia e il web risale a tempi non sospetti.</p>
+                    Benvenuti! Mi presento: sono Vincenzo Melillo, un Full Stack Developer la cui passione per la tecnologia e il web risale alla mia infanzia.</p>
                 <p className="about-grid-info-text">Fin da giovane, ho nutrito un forte interesse per la creazione di contenuti digitali, un percorso che mi ha permesso di acquisire un ampio ventaglio di competenze tecniche. Queste abilità, unite alla mia costante curiosità, mi rendono capace di ideare e realizzare soluzioni digitali innovative e funzionali.</p>    
                 <p className="about-grid-info-text">Il mio modo di essere mi spinge a un apprendimento continuo, sempre in cerca delle ultime novità e tendenze nel vasto universo dello sviluppo web. Il mio obiettivo è non solo tenere il passo con l`&apos;`evoluzione tecnologica ma anticiparla, per offrire soluzioni all`&apos;`avanguardia.</p>  
                 <p className="about-grid-info-text">Attualmente, sono in cerca di nuovi stimoli professionali e progetti entusiasmanti che possano ampliare il mio bagaglio di conoscenze e permettermi di dare il mio contributo alla comunità digitale. Se il mio profilo professionale ha suscitato il tuo interesse o se stai cercando una collaborazione, ti invito a contattarmi. Sono aperto a esplorare nuove opportunità e a confrontarmi con sfide inedite.</p>  
