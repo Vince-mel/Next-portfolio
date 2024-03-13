@@ -1,5 +1,5 @@
-import "../scss/sections/_globals.scss";
-import "../scss/sections/index.scss";
+import "@/scss/globals.scss"
+import "@/scss/index.scss"
 import type { AppProps } from "next/app";
 import { Raleway, Fira_Code } from "next/font/google";
 
