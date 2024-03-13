@@ -1,8 +1,8 @@
 import { link } from 'fs';
 import Link from 'next/link';
 import { title } from 'process';
-import React from 'react'
-import { FiGithub, FiInstagram,FiLinkedin } from 'react-icons/fi'
+import React from 'react';
+import { FiGithub, FiInstagram,FiLinkedin } from 'react-icons/fi';
 
 
 
