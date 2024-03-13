@@ -121,7 +121,7 @@ function Navbar() {
               delay: 0.6,
             }}
           >
-            <Button text="Curriculum" link="/CV.pdf" />
+            <Button text="Curriculum" link="https://drive.google.com/file/d/1grfeF2ydWSiglvh8txqVFgZwnK6VkKGC/view?usp=sharing" />
           </motion.div>
         </div>
       </div>
